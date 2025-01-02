@@ -1,11 +1,11 @@
 # Strings are immutable
-a = "!!!Harry!! !!!!!!!!! Harry"
+a = "!!!vatsal!! !!!!!!!!! vatsal"
 print(len(a))
 print(a)
 print(a.upper())
 print(a.lower())
 print(a.rstrip("!"))
-print(a.replace("Harry", "John"))
+print(a.replace("vatsal", "John"))
 print(a.split(" "))
 blogHeading = "introduction tO jS"
 print(blogHeading.capitalize())
